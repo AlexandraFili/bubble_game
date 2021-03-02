@@ -1,0 +1,41 @@
+body{
+	background-color:lightblue;
+	font-family: 'Arial';
+	font-size: 13pt;
+	}
+	
+#container{
+	margin: 0 auto;
+	width:80%;
+	text-align:center;
+	padding:20px;
+	background-color:rgba(255,255,255,0.5);
+	border-radius: 10px;
+	}
+
+#beach{
+	max-width: 1024px;
+	height: 768px;
+	margin: 0 auto;
+	background-image: url("../images/beach.png");
+}
+
+#session4{
+	background-color:#66b3ff;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+.btnStyle{
+	padding: 5px 15px;
+	margin: 10px;
+	border-radius: 5px;
+	background-color: lightgrey;
+}
+
+#scores{
+	text-align: center;
+}
+#scores li{
+	list-style-type: none;
+}
